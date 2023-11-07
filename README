@@ -1,0 +1,28 @@
+sxt - simple x tube
+===================
+ ┌───────────────┐
+ │████████████   │
+ └───────────────┘
+ ┌───┐ ┌─────────┐
+ │67%│ │         │
+ │███│ │   045   │
+ │███│ │         │
+ └───┘ └─────────┘
+
+sxt draws tubes and
+sometimes text.
+
+features
+--------
+* fifo interaction
+* optional text support
+* xresources config
+* featherweight
+
+anti-features
+-------------
+* absolutely no dbus support, try tiramisu
+* background service / daemon
+* mouse / keyboard input
+* wayland support
+
